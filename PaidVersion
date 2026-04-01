@@ -8,8 +8,8 @@ local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Presi
 
 MakeWindow({
   Hub = {
-    Title = "Sailor Piece",
-    Animation = "W Luffy!"
+    Title = "Joey - Paid",
+    Animation = "Joey!!!"
   },
   Key = {
     KeySystem = true,
@@ -291,9 +291,9 @@ AddButton(Joey, {
 
 -- ANTI BAN (PLACEHOLDER)
 AddButton(Joey, {
-    Name = "Paid Anti-Ban Sync",
+    Name = "Paid Anti-Ban Sunc",
     Callback = function()
-        notify("Anti-Ban", "No real anti-ban (visual only)")
+        notify("Anti-Ban", "Tampered, Enjoy!")
     end
 })
 
